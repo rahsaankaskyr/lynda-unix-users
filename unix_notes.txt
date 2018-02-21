@@ -1,0 +1,21 @@
+
+Unix notes - Lynda.com - unix for Mac users
+
+
+> ownership permissions 
+	> who am I? 
+	- user 	- total access to own files
+		- limited access to others' files
+		- for collaboration - grant access to certain files to certain people 
+	- $ whoami 	- check to see, maybe switch users
+	- echo $HOME
+
+	> unix groups 
+		- $ groups // to see which one I belong to
+
+	> file & dir ownership
+		- $ ls -la // 2nd & 3rd columns
+		- cd unix_files
+
+
+

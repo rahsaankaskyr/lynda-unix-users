@@ -49,7 +49,18 @@ Unix notes - Lynda.com - unix for Mac users
 			- bash  Bourne-Again shell
 			- zsh	Z shell
 
+> Unix manual pages ( : ) more info
+	- spacebar
+	- "f" (forwards)/ "b" (backwards)key
+	- "q" key quit
+	- man man // man -h // man --help
+	- man aprops // helps find right commands
+		- (-k) & find definition (keyword searching)
+	- whatis
+	- working directory // pwd /foward slash
+		.path separator 
 
+	- 
 
 
 

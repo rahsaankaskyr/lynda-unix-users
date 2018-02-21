@@ -75,7 +75,27 @@ Unix notes - Lynda.com - unix for Mac users
 		$ cd ~ // user dir short cut
 		$ cd - // back to last previous dir
 
-> file system organization - typical unix organization 
+> file system organization - typical unix organization
+	/	root
+	/bin	binaries, programs
+	/sbin 	system binaries, system programs
+	/dev	devices: hard drives, keyboard, etc
+	/etc 	system configurations
+	/home 	user home directories
+	/lib	libraries of code
+	/tmp	temp files
+	/var	various, mostly files system uses
+	/usr 	
+	/usr/bin
+	/usr/etc
+	/usr/lib
+	/usr/local	> user programs, tools, & libraries (not files)
+
+> unix file naming // max 255 characters
+	- avoid most symbols
+	- use A-Z, a-z, 0-9, period, underscore, hyphen 
+	- typically lowercase
+		- "MyFile" & "myfile" are different
 
 
 

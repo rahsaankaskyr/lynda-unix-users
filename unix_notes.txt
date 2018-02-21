@@ -2,6 +2,90 @@
 Unix notes - Lynda.com - unix for Mac users
 
 
+.unix - lynda.com
+
+> unix 	- OS
+	- assembly // c lang developed for unix
+	- c lang - makes programs hardware independent	
+		- makes unix portable
+	- Mac OS X unix = Darwin
+		- BSD unix + NextStep + Apple code
+
+> terminal application
+	- cli - access to unix
+	- pref - underline
+	- logging in & using the command prompt
+		- control + A // control + E
+		- tab // auto - complete
+		- tab + tab // auto - complete
+		- command + n // cycle terminal windows
+
+> command structure
+	command > options > arguments	
+	(single word)
+	> echo -n 'Hello World'
+	> ruby -v 
+	> ; 	to break commands
+
+> kernel & shells
+	- kernel - core of the OS
+		- time & memory to programs
+	- shell	- outer layer of OS
+		- interacts  with user
+		- sends requests to kernel
+		- bash shell / has other choices
+	- popular shells
+		- echo $shell
+			- starting shell
+			- change in terminal prefs
+		
+		- echo $0
+			- shell currently in 
+		
+		- diff shells
+			- csh  C shell
+			- tcsh 	Tabbed C shell
+			- ksh	Korn shell
+			- bash  Bourne-Again shell
+			- zsh	Z shell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 > ownership permissions 
 	> who am I? 
 	- user 	- total access to own files

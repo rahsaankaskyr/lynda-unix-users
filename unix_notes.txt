@@ -60,7 +60,22 @@ Unix notes - Lynda.com - unix for Mac users
 	- working directory // pwd /foward slash
 		.path separator 
 
-	- 
+	- listing files & directories 
+		$ ls -l  // vertical listing
+		$ -a	// . current dir
+			// .. parent directory
+		.dot files // invisible config files
+		$ drwx	// directory
+		$ -rw	// file
+		$ -l  	// link or shortcut
+		$ -h 	// show size of file in list
+
+	- moving around filesystem 
+		$ cd/  (hard drive root)
+		$ cd ~ // user dir short cut
+		$ cd - // back to last previous dir
+
+> file system organization - typical unix organization 
 
 
 
